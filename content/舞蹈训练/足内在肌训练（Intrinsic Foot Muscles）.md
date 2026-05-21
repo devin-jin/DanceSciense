@@ -1,4 +1,4 @@
-## Short Foot（短足训练）
+## [[足内在肌训练（Short Foot Exercise）]]
 
 动作：
 
