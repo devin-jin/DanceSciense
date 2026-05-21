@@ -1,4 +1,4 @@
-
+[[侧向跳（Lateral Bound）和跨步弹跳（Split Squat Jump）的区别]]
 
 跨步弹跳（Split Squat Jump）是一种下肢爆发力与动态稳定结合的训练方式，也常被称为 Jump Lunge。它能够同时训练：
 
