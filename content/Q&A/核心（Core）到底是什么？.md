@@ -1,5 +1,4 @@
 
-## 核心（Core）到底是什么？
 
 ![Image](https://images.openai.com/static-rsc-4/bA61LHahLDuHRpZ4SvI_rpHTM8AB14w7f9-4fY0AZb4YMTT_ur8-4n8wrHjAR7A0cJXcsJr9zPf72makjuRRLzLUQ5IcMQtcU_nxnC0sAMeev3a6hA9OHiVittkXZ7yeVhaIKPiGMBg9Sf1wXnM3gdMJiGzAK8kKqoeeefQIy1E55IaH6YV_10IxDczeh9pW?purpose=fullsize)
 
