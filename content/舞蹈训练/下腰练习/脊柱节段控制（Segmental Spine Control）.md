@@ -33,7 +33,7 @@
 
 ## 常见训练方式
 
-### 1. Segmental Cat-Cow（分节猫牛）
+### 1. Segmental [[猫牛式（Cat–Cow）]]
 
 ![https://images.openai.com/static-rsc-4/wvqYrQnhp-i41xtwF21v-2uC-S6P2Wt8gfKLdVl9VTDQvapEviINqdxjo22sedgkwPRO68CTj_PAVXYNmxW-56CYKssPo4ppxi3_PaN3Yv_8Qt2PYnPDN5e5rEOe64edQaHG2o_JdHf5aKUeuZz54msMxuIKHCpT9tPBCWGGk7Vojil9zO--1HJBrPFsntVS?purpose=fullsize](https://images.openai.com/static-rsc-4/kJPpUtYbMWzasxy_yXjh5ixOOxVCjvRxVVWmNWfK2wZRJm6_bPhHZaeYovEtFhn_AqabOGpAIQiX5EJVxoy1IG__-MhvAIfRSIE4nkfDNwRywV44fAe4ibKamEREXcqiYH-OJdIKxWPxj0Ks1xNqn1F_HVhuEtaBevkbhk3KlDQ?purpose=inline)
 
