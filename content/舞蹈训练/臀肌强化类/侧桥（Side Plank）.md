@@ -116,7 +116,7 @@
 
 ![Image](https://images.openai.com/static-rsc-4/Fl0ES-6RHUhIFW6nCMx9bCCoite--m5LCTLa5Y4sU4CP5ixKn3AssKvFKuKrn-tMocZBf423ar4f2X7J7rbpNVmXGgx_gv5rVpc_ll2wE3AaENC7U0PpQg0VRLsbZziK-Ox-JvvRZZOefMTo2lBrnf7jlrFg0A6beo0MPDR5EWqbqU0pX4YCMfe1757i4mVD?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/ZasWCxmEzPoRzr6ywmxyA2Q3tztbM-IqiU-6w8k6AsHqawlMqkb34Z7_6oADCNEetP_SYPKI1k_FpA3Qlad4-3vsA3J7_SmM1K3V4KB2wDriCN80HL-abAWtK22xGWcTYC_fKf4KhCgM0F1O6pTAaH05u2OTlQKJTGZhz2B-d0o3ZmWmFs5tISh68XeZj5yb?purpose=fullsize)
+
 
 侧桥主要训练：
 
@@ -199,7 +199,7 @@
 
 ![Image](https://images.openai.com/static-rsc-4/liF7Ou299EyIKcsvelf40Za2QEj7tpcYakJenAihhLScT4raT4rqKMfFiDiZzcTzxp-u6UjPepyZqhAPsQrm-zW4HYtP3MLfKSAYCv2_QVXLQqefgvojYtSV6TqQziFMAke__LHs1v6fb6EkL6t7K061Iv4IkovGVR77uc8T9UfpZ3ktq6nuLYVCCjJLFqNR?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/JVhrlOt8YmVyv2BpCQt8UZKmAUjwcmQGI3vQn8W4YTt4OAzTpHw165_AVhz30MW9Q6cZjiRT_zaxOPsR4JRk_PCNx6PhGniWTkPPEXgwOrylpHAm35_WkR0vn3LWnSDKCx6wBTo3r-dg_P5IxfkNZDhQ6Fa-JPo0Apc5aA7Hy3mnJhMJ-AZdn3J0iFmqbntr?purpose=fullsize)
+
 
 ![Image](https://images.openai.com/static-rsc-4/HOGVBXOPPmLK209R6ou6IEAXDZuCcfiBrMEHpjb3c3F8hrdjXGZF1tXxTzJZvtTY_nKLhYOcOQq9QF3Zp2OkaTHINpCqBXS7yWaKSwq6ags62ablmMycBlQ2rRm5K4etNtCQz32phDnFWPN_sZniT1QLVMKgp7MLJ_zfM7WNOHNiAclyJjIF_lGG3oUxI4Z8?purpose=fullsize)
 
@@ -243,6 +243,7 @@
 ---
 
 # 为什么侧桥比卷腹更“功能性”
+
 
 很多传统腹肌训练：
 
