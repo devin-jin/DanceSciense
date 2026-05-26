@@ -1,6 +1,6 @@
 ## 常见原因：塌腰
 
-
+![Image](https://images.openai.com/static-rsc-4/6FqQ1wE1b2VB7_NYGepLTBddQ_4DTAdrYdP2l70_4PHG7IOf70tFiZ1c6NbtxCX1WAIOjgrzuDEoFCct4fmwapEujfmNrUsphXsjhO5z6SvGK6t7pAiI78p-0Y4-UtTQbZhHfWTWrU9tRy56Nc5EV1H581gbfuEXN-s6qTxrqkbDYxHpwyIKywUgCQzZF4Rt?purpose=fullsize)
 
 
 
