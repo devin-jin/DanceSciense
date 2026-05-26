@@ -287,7 +287,7 @@ Lunge 不直接训练“外开角度”，但它训练：
 
 ![Image](https://images.openai.com/static-rsc-4/A4Ieq5KUsGS_9L7lnpdSBo9gXsXNe_tmD0VGhlM_80AekLJfPRPFAq0HDgxFq4WsMDZz-e4mK7Y3GrRkwuVm_O-fXo7WBBu_oSB1pfcbWInYMJdk7Yn8oX60V2fGFWlS2m4YmH_DBbXaa4_oyuKWcznrLx8qgXfpcqcBI6x5VQjlA0Q_XokEGWwvqywaiJTU?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/nUYsdixAddOXPiNc1Cz2GEMmpbvmkN_lepzKsNwvSA8z1hqMlVVf6szCT3jkrVmyQbIjSDp_0RSOfH7JdEhOmYs4WwFts4woQuO0jzxjINffWDZ_G5CFopJ6ZLn92DAjuP0KxD1M2V27KgORSTffmj6jBl4W8xruiFW9OEyth15X9bZewaiVB80A_x-JiJuW?purpose=fullsize)
+
 
 
 

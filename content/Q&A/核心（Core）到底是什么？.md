@@ -204,7 +204,7 @@
 
 ![Image](https://images.openai.com/static-rsc-4/HOGVBXOPPmLK209R6ou6IEAXDZuCcfiBrMEHpjb3c3F8hrdjXGZF1tXxTzJZvtTY_nKLhYOcOQq9QF3Zp2OkaTHINpCqBXS7yWaKSwq6ags62ablmMycBlQ2rRm5K4etNtCQz32phDnFWPN_sZniT1QLVMKgp7MLJ_zfM7WNOHNiAclyJjIF_lGG3oUxI4Z8?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/JVhrlOt8YmVyv2BpCQt8UZKmAUjwcmQGI3vQn8W4YTt4OAzTpHw165_AVhz30MW9Q6cZjiRT_zaxOPsR4JRk_PCNx6PhGniWTkPPEXgwOrylpHAm35_WkR0vn3LWnSDKCx6wBTo3r-dg_P5IxfkNZDhQ6Fa-JPo0Apc5aA7Hy3mnJhMJ-AZdn3J0iFmqbntr?purpose=fullsize)
+
 
 ![Image](https://images.openai.com/static-rsc-4/jgm2V11AADPpw43KufYCfTd9IyETAEPDUuI6HZBQtsOn2NGosVurxAB60CKHR4VQW72m6Sq-NFRtzfXb5jeumoVihr9Bv6bjyoHD1n-qC7_IWSiUMGZL5SnPv_9xSia0BJt4TDzrxzKl82gNHetsb_mxqqZa9Fp4w8a639thzR7XXK40IyElOaoi84MT5NrV?purpose=fullsize)
 
@@ -259,9 +259,9 @@
 
 ![Image](https://images.openai.com/static-rsc-4/w6TZQo-lgbUXa1PnOefRy-Or9olwBrnXFmKLinWuTsFxGUr8FN2FuV_xX4MLxO5AI2GM6dFDjm_GBtAeE5GxYg67lwnoe68sUgSrYxh836o15Lk1-C69FWTXxGnU3hWtdZD3hZo8LVRZqqyBz9eFj0MjmZnlB4ERydf6PEOgvROrLE89ejSkTsY9D2GReqj4?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/ZasWCxmEzPoRzr6ywmxyA2Q3tztbM-IqiU-6w8k6AsHqawlMqkb34Z7_6oADCNEetP_SYPKI1k_FpA3Qlad4-3vsA3J7_SmM1K3V4KB2wDriCN80HL-abAWtK22xGWcTYC_fKf4KhCgM0F1O6pTAaH05u2OTlQKJTGZhz2B-d0o3ZmWmFs5tISh68XeZj5yb?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/WtDLxW60chyRue2wGQWLWBdpZCzWtSlFoVZV1FP3tAsdgnKR2ela7KxihIbOLMeaxN20bQEcI1ywjIi7L2cNrBXj67J9VIkDvhaFJmQFhTzyiIlonaQOvHt1dMe1N2_LPXvoVTtd-ahh07o12J7ypSp01sR8z2uuEVtR-0D016mBVpV3l34yolRqK41-9tSK?purpose=fullsize)
+
+
 
 ![Image](https://images.openai.com/static-rsc-4/frCSQIuAouQbvjjl-6vCALUJk_7dx3VG3JL2qm0juDaDK6OQ1NcvKmXDJLNuqMFx1NLm3k0Ikl_fGYVIZq3Pet2FqenWoRoyEHieooKFgyIidYjjCOZgQq687vBuUiBtD2jP9-RgkR3F0lZowOkpvccjD8xmjyXMMOTmO7V0kRw502o5LQhn3cCi2kfji602?purpose=fullsize)
 
@@ -321,7 +321,7 @@
     
 - 动态稳定
     
-
+[[舞蹈生需要核心稳定性，那还需要练卷腹吗]]
 ---
 
 # 现代核心训练的几大方向
@@ -332,11 +332,11 @@
 
 例如：
 
-- Plank
+- [[平板支撑（Plank）]]
     
-- Dead Bug
+- [[死虫训练（Dead Bug）]]
     
-- Ab Wheel
+- [[腹轮（Ab Wheel）]]
     
 
 ---
@@ -347,7 +347,7 @@
 
 例如：
 
-- Pallof Press
+- [[帕洛夫抗旋转推举（Pallof Press）]]
     
 
 ---
@@ -358,7 +358,7 @@
 
 例如：
 
-- Side Plank
+- [[侧桥（Side Plank）]]
     
 
 ---
