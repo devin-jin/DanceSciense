@@ -119,9 +119,9 @@ title: DD的舞蹈训练笔记
 
 ## 稳定性循环（10分钟）
 
-1.  Short Foot × 30秒
+1. [[短足训练（Short Foot Exercise）]] × 30秒
 
-2.  单腿站 × 30秒
+2.  [[单腿平衡（Single Leg Balance）]] × 30秒
 
 3.  单腿 relevé × 10
 

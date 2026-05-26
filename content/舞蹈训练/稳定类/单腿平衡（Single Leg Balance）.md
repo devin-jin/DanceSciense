@@ -36,7 +36,7 @@
 ● 本体感觉
 
 对舞者价值极大。
-## Star Excursion
+## [[Star Excursion]]
 
 经典舞者训练。
 
