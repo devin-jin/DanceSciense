@@ -269,7 +269,7 @@
 
 # [[北欧挺（Nordic Hamstring）]]
 
-
+![Image](https://images.openai.com/static-rsc-4/H1ngnnZ02yNQv8hAHOAgk7F3gOV5ixQXpJkHEyU44faAI3DpSSfTfkr8NpIuBSv6rBzDS9oJLVFE1ALYVqMNwx0BR19L2IvpIR_q_ia5uRwyTTJ9m3TzHRb_ErTqb9SV1fLs9KVjy3pgmlnVfAztvQqpZBUsUZJw4c1Rav2bFYTtXxSg9mvQk07JQHHe0lEi?purpose=fullsize)
 ---
 
 # [[罗马尼亚硬拉（Romanian Deadlift（RDL））]]
@@ -296,57 +296,13 @@
 ---
 
 
-# Flywheel Eccentric Training（飞轮离心）
-
-这是运动科学实验室很喜欢研究的一类。
-
-利用惯性飞轮：
-
-制造超负荷离心。
-
----
-
-# 飞轮深蹲 / 飞轮硬拉
-
-![Image](https://images.openai.com/static-rsc-4/OYC-8JXezOlV6hXHSVS3mgTteRjArSduYCqZSHA3yzkFyIKdLitzfWfnHt0E2qiOzfGPDDp1_v2UFEGubV_4v8GEvL2yCLba-_QhT2fxyHfT4tfgIfJrmACT8hrW_XvT5Vr3mB8rEF8_ALgIepYLNV4x9PX9cvNknIugd4yheu4g_TW9qZPKbktOofRQ-yXh?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/9CsJv7XppO3czZKFdMk4qQMfnmIl9nXDkVH8E32qzOgBHW0XhEaNOB0fbQ37wAkXNkUQQxuQbgE54jjYp44h4wm0ZB-J4Fxl3ltW4QrsWqEj5TKy6QqRPbdf-Ye34iinpWvhYI_1pGToCCbbko1X5kOQKqsGaH-ufJytx4QoQyXmmhy9a-R7Xl9YcUG22XV9?purpose=fullsize)
+# [[飞轮离心（Flywheel Eccentric Training）]]
 
 ![Image](https://images.openai.com/static-rsc-4/yeegJ5KsX6wa6cRUdfSwCsRmcE5EhylQFSjrwxXWGHzxpEWr0C1HM5T0HQh_dinU_qGIXhWuwvXbSTo5n6cWa1w__AjUpdGAv1ehKNk6aOdQLvJto-6RiliM6i8vn3tevNU3uv--Fr0Erz0egW4wQL57unor6XjyE1J_IrOhq04YDb99HBgZjMmcisi_gxGW?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/PZ22md8YGIYGKHoC_p5CDXcDDXASjjtpYz0HnBkCBLMSNHFI1-4QJYhY0eDNGS4iAAuZ_Mb9pWIvqIisofZVyfdWIjZ0q-UB-Z07QTaEleKQonoKg7E6JJPhWY76Sn1TJDUu6I9JFuoP7A_SJMEJnu7uRCsVs1uCKsrZgim5SfxYs0-CoFYQeb_tcHyk-CsY?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/mEOpaWVXXPXnie_HOI6sZjXbPKHHrRLQSPDq5C79t1p08C-a9krZQ2AEFUiTF46uzDor0-weo73SnXB7LhvEk-4X_cIWAJs7ny_b50qKCtpWcciEim08cDbkF0j2Wh3vhU2Dfnxoec4vcq2a2_w1a9GC56dPzxO-DwmWBRBv6dFJfp7ALyf2m7XYr4FAjZXb?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/gnq2IOcGv2vV_WNCzHPR79gpnem2lbnar7B0u6PNmAFxXRULYbbc22BhGnqpav2neL4fqiWMSIrwxHfnaPxHeuHcNpOo688EASHpSOwRC5xVFhDsSGDuGDdmFhRYJ3SrWJwVzreSh2xDhckh-c7MX1SUaqFPj2ZWOVfebL_8_b_nQ22UjVzoO9J1HfbehFFb?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/fM8poVIXM-N2RBR1W62arYt6zQjSNQY5Pzcfz6mqiJiP5fN1MC6Vr1Z79GwGgQpsU3xzjClRZXzi_Bh3HgYct7dCh_SniCqQGiSn5oUlcnDPyF2VJrDZEbSab49w4dZ2isvUoxWccy24jpdxITyqGEOglQIqY8YY4VIivf3P-3G9fe2CEJq9uiGhuwb9f85t?purpose=fullsize)
-
-特点：
-
-- 离心负荷极大
-    
-- 长位张力明显
-    
-- 神经适应强
-    
-
-很多研究发现：
-
-对于：
-
-- ROM
-    
-- 肌束长度
-    
-- 爆发力
-    
-
-改善明显。 ([科学直通车](https://www.sciencedirect.com/science/article/pii/S2468781222000558?utm_source=chatgpt.com "Eccentric exercise improves joint flexibility in adults: A systematic review update and meta-analysis - ScienceDirect"))
-
 ---
 
-# 四、Heel Drop（离心提踵）
+#  Heel Drop（离心提踵）
 
 小腿研究中非常经典。
 
@@ -389,7 +345,7 @@
 
 ---
 
-# 五、Split Squat / Lunge 长位离心
+# Split Squat / Lunge 长位离心
 
 很多现代研究会用：
 
@@ -426,97 +382,6 @@
 效果明显。
 
 现代 Loaded Stretching 很多都来源于这种思路。
-
----
-
-# 六、Cossack Squat（哥萨克深蹲）
-
-这是研究内收肌和髋活动度时常见动作。
-
-![Image](https://images.openai.com/static-rsc-4/GZQAbR7S-hPj3dYTJJswRE1j4B7ZlrF176BCohzelKq1e2znq8UKONUCFabfEcIdA85ctv-GLzYpQpSoHjx9zvOS7K0VA9SUPb7PMnquCjgV2lQ6JHrVcugQ3XOT5KNIncSL7L2RFwtdehOAFQ80xv_qoz9_VuaqtieVJwCJ_bRLBRUgCGV2U6T1tVEPJz6V?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/BIseUe_6-hGGxRqMKY0clh4EPP3BfwmZ-ijhgJrGZ1ZjCZLQ92I2aTDQtUN4G07_HQsNr-5Pk9DEMK8rs39_bvto4JOvU8FJtL4eJf99OEjEcOAZXRFb6wLPhIZN07XEjWZMlmguyNCr6iUaiR8n_BAHnsGlB7DbXCRgD3Yg-GC55SQXNoDlrtD5F_OvlF4f?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/RqfWqvkV6t8CIzYSHcKJZ_kp1L8km48K9DC_DdJJxRP0YFE2TIZoDHgGvuLfqN7Hvnczowoc11oAwZtNJUJlT0ln8m_rEXoMTcWhVSVCTp8t2udSHDKSyBMdnaFLAqSQy1CotH6YgmcRB7_CAJ0FcixDGOD4JeqkDmfYwzt982E9T--ltNxv2JkgzI1pgQ61?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/OZIpogjWv7jstcJ70XWTjxpYjbcf3YcpHjii-vBT5GNptMkV6BRfbgbAFlrogfjBZ3eO8KyY95ZFqjiyp4fslRq2u-ZG0icBeZobuCXHVesL1ToSym4qVBaEGj2-MoBz-9nyvmmHPrfcB4mNEl3tiiddCcKRSQ-_iFmYldiaYpVR1dhyXMI7yhcFy5TU8EJt?purpose=fullsize)
-
-特点：
-
-- 内收肌长位受力
-    
-- 单侧控制
-    
-- 动态离心
-    
-
-对于：
-
-- 横叉
-    
-- 髋内收活动度
-    
-- 主动柔韧性
-    
-
-帮助明显。
-
----
-
-# 七、Jefferson Curl（杰斐逊卷曲）
-
-这个动作其实实验研究没 Nordic 那么多。
-
-但在：
-
-- 体操
-    
-- 马戏
-    
-- 柔术
-    
-- flexibility community
-    
-
-里非常流行。
-
----
-
-# Jefferson Curl
-
-![Image](https://images.openai.com/static-rsc-4/5NDSEH6eImhrH4Abx7KOj6bhXhmC0XQXnt0fH-4Gw5ZJ7vOjauX-SK_u4FDa9HyhrwkxIJcheuyH5Mm3zhIfpDhjTyuA9HuOiVdV5T8WGj4xR3BBLiPwuV8jxUS7m3ynOspn8X8o4pUqY4m4fHZXE-afg_qzfa4cxnWxsEP2MDFODR7lYXnAPGxBd2kGA08L?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/ceGJQpWccP_TgrEk4OaxHou1w-_G1K5ped402h6Jdj39ttV4eAD9rwzmE4zYpGXGPUMuKwscYpk8KX17B2sBw-1XnXaFodx8LN64cESByevRScG3QF0CkEGgeBv7RcU3m9WY95n7-Zvj_sMuMaUMJS3KVR7IwAXaIjPqIis_MCZzN6XQbWtGi7caXIUC2XUE?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/qrjvX45h0Jn6Gl8UrRQOkTZMbNs2WzuYS2lmPvKV5-e-4XffMTMa1DzFUNEVsNj3qTytPryP_IS8H5t888bG_MWFrcKCZBPrZjSILYhRrTsSYgFQIvXeAFgdpGHpMxQupS0-l1ssaLug79uqAEjYDi55SFcSnDkyAg-dJdIsJSq6aDV-cFZlZ0adE_i2bLKv?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/LrhldatVxcG7zwNUZTgyHMblT7aWNMEbp_xaSEzGMnN0B2MXJg9zFur1PT2ZbASexZ0faVMMjQjMO2CwWre3uIHLziVWnNF5koeoTK0SvFMUaytW0zXXNrQWjNCTmzf5JvbaXNX9YGeyQ0aI0Q53TEqyfF7TyH61YWxUm1TPSWdwIcsCOwcsD537rF-PXK8Q?purpose=fullsize)
-
-核心本质：
-
-> “负重脊柱屈曲 + 长位离心”
-
-很多现代 flexibility 教练非常强调：
-
-它能同时提升：
-
-- 后链柔韧性
-    
-- 主动控制
-    
-- 脊柱耐受
-    
-
-但它属于高级动作。
-
-不适合：
-
-- 急性腰痛
-    
-- 神经症状明显
-    
-- 椎间盘高敏感期
-    
 
 ---
 
