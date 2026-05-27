@@ -41,7 +41,7 @@
 
 # 膝超伸外观示意
 
-
+![Image](https://images.openai.com/static-rsc-4/dvtLANEFG8t-xdVxShHni7ffc8kBQnP5e8-5K8LG_OHLmGpvFM6ZSJ_-uSE3cMd1ii0nLqfNOqX9_liyXJAtXbQUVYvHFKmcdkWW0fxSoZgN0K_aqIdmDeDZTdhmwZCgfmUW6qkfsi3BU5YLX46e0OPPSuXEoJOhQODauUD3xigwtACPPBi4tzgZcQ8FLsPi?purpose=fullsize)
 ![Image](https://images.openai.com/static-rsc-4/SmRjytbZwTBPsnSiLOhk1PfPOWTQfwNNLBvKT9eZOAYF-cuWnW31VRtSVSmfk0GkPmO66O4ET_t6v9_29I3zZ0abiyhMvr1NTJJaGPvmjsGEMR7vCwLDKOHo3bX00k9dozA1AS4XVGDUV6bUG-vjE7upvXrg7SBKgbUm02pGuqFzGMN2kvvYFmskUhzniFk5?purpose=fullsize)
 
 ![Image](https://images.openai.com/static-rsc-4/LwDSmyOUEXe49jG9IY_niJEO47B1dRaBNekHWdbexLwBO3zw8fcKXeTnpqvYXosq-7yv6TbgaVx21YoegpilT-F5InIB6xQoJ7RxD47WyeOCFWZhA8g9tVTgbXVyqySORU8tTRQgVQufX6HbCJmRMQwd8sZy4JDXqDrWP9Iupk02xQn3G2YyPcVyWh6vTGiy?purpose=fullsize)
@@ -374,7 +374,7 @@ RDL 能帮助重新建立：
 
 ---
 
-# 第四阶段：[[单腿
+# 第四阶段：[[单腿训练（Single-Leg Training）]]
 
 真正的问题往往出现在：
 
@@ -390,14 +390,6 @@ RDL 能帮助重新建立：
 ---
 
 # [[台阶下踩训练（Step Down）]]
-
-![Image](https://images.openai.com/static-rsc-4/vrZWnomkKBK0FzALvs8QzRhu0sQcEZw8MYG40iMfBMWXd2cqpUB69Ms_xWdfihlegg0BK7zgenO8x603OU2-UJ6a9oZFblsl4bcUAyW_-6w0Qzeq9svE8gMTXy5zeXTuBcmnxcEydN6MUR0AkWEZTqmX1yiuJGDC2aQUshvEjor3wfYy4JD1ZabP234fAqjy?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/0MvKH8Ym1CKmz6MSNm5x4I7k87p-cnyiUiabUMDNO1ob4j-WWZckH_lTzKgZaXlLeOK9cF80n_myygSz0YsVHGzQN1E4T3gYNCiWLaEOKDxaef9m7nJECQ8EO-nlSE6Jsk7KIVViBPNqcaIPVPUwc_fLrFwjDdwDmjOSxXxgSHO_zo7FVDNmrjKQE2Ykll1L?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/l-Sub9lGYnp5CE_Hyvfts1ktrlAX1p2SmSgt91ePEkSw-7xBG1bjOnPZ509leCFcmqiYZtUnz1AfV767oK4V69TtgvyXbUqdexj4JRywR79i4M0d7bib6GnhwFPY5XvoBrOU9k6UzFz6UjokxBYRRsSeQ6eqzny9LFcKyogBCezReWSozaG7kdf4re9vxMqx?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/ND81sMdqv0WxtgoO6eAZXExcAPrpNq64f-AyWvNu4-f9OKm0MiBH3Ah2enrb-Y2bhxQNWlo6j6vMfjtQPlhmzo-DO0JkN_rgwQ6hN8AAPjtILTTNCkhs1f5xLP62Kv2e3skcLKqtrb-YM2LzvP9coW_1e16goSGNZkvCWuxjfY9s47iTJE16ho4RS5wXQS6q?purpose=fullsize)
 
 ### 动作重点
 
