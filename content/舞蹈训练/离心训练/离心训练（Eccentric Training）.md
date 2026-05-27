@@ -272,15 +272,9 @@
 
 ---
 
-# Romanian Deadlift（RDL 罗马尼亚硬拉）
+# [[罗马尼亚硬拉（Romanian Deadlift（RDL））]]
 
 长位髋主导训练。
-
-![Image](https://images.openai.com/static-rsc-4/uvAYqiheVbfsGtI_sxNRFIbU6KqQMsVWFL3_ZRWpfRjlNuwTMPebAuPN_gi3xCOB2OeNPniKf4kurlwtlIUwy7hC3fhQ2caYt79OZNYKyL1dfo0yXCB1XQZv6melo49sb8n0U4RWoVDgRzMNWGAg6G42wzuE7wzIZzvyhcCpXEEI4v4t3bTieAfDEGJ_5kSe?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/UW2WGcYXPMZh_TH8_DUEaZxMbJgx7aB1p5m0ZmZpFZSEamLZOnNYSPY8C3DMjJpFUPXNxkIjJ0Pl6tJ3KU0kX0GwcWsLu35E90Gj_ADP0xeO_FyDPeGlJKJ0cwwdmkDdj3DoqpuByxExjbinALuN3IBWROF1-dsTmLZbklQDjTeDDvf4KvXWXqQkWkyVtfkM?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/B7c4GAQVeBUwfGjzhvGK30V-0OqgVAXqV0DCIICz-wV0GB86vbtYX1_KDKh78VGfvlBirZI6rWnvOuWHYysnUIUj6BjYZW6RYYHtRecEKxDLjAhngbv2hDJUx3IqFVgsfQYQsVeFxlnRCTOu9fVS4VZrXi6ChP1ysvbS-XAT5GA5x4-BfhCH_2Xnz4rJTaqO?purpose=fullsize)
 
 ![Image](https://images.openai.com/static-rsc-4/8VpGweLYdDvD7Niqjwpli38FxvjRpwQorLflf2DA5LBpOCBuJ8XDO2uBhTzauTnDPDu-tOhoIw4F7FQYlPwD3GhO-rn3AnViBJ7CuAG4EIvUw90r73G8TnnxOhh8hS5BMsDBU-R2JibSMueXqXD2V69xBfwc0jqTcDxsUxgEo1-5adwvoc3ARIVGnc7J3_QG?purpose=fullsize)
 
@@ -294,25 +288,8 @@
 
 ---
 
-# Jefferson Curl（杰斐逊卷曲）
+# [[Jefferson Curl（杰斐逊卷曲）]]
 
-偏高级动作。
-
-![Image](https://images.openai.com/static-rsc-4/5NDSEH6eImhrH4Abx7KOj6bhXhmC0XQXnt0fH-4Gw5ZJ7vOjauX-SK_u4FDa9HyhrwkxIJcheuyH5Mm3zhIfpDhjTyuA9HuOiVdV5T8WGj4xR3BBLiPwuV8jxUS7m3ynOspn8X8o4pUqY4m4fHZXE-afg_qzfa4cxnWxsEP2MDFODR7lYXnAPGxBd2kGA08L?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/ceGJQpWccP_TgrEk4OaxHou1w-_G1K5ped402h6Jdj39ttV4eAD9rwzmE4zYpGXGPUMuKwscYpk8KX17B2sBw-1XnXaFodx8LN64cESByevRScG3QF0CkEGgeBv7RcU3m9WY95n7-Zvj_sMuMaUMJS3KVR7IwAXaIjPqIis_MCZzN6XQbWtGi7caXIUC2XUE?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/Iin_SVLvkrj-BUEHPFo36ljqlc-fo0m1gsXT_CWe9xlEeVgu8WWe71JnTsLPAj_fRJNMds8zdpI-u4EWY9UANHSz8O5u9kxIrYnO2y30yByYd-3fZmLJiIAwuMFhDm8jijBpcg7ByV8Z_eRTPOdYclU3R-iz2xZbk323y3ndZXJQodE4mJctWvCbWzo0dqBY?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/LrhldatVxcG7zwNUZTgyHMblT7aWNMEbp_xaSEzGMnN0B2MXJg9zFur1PT2ZbASexZ0faVMMjQjMO2CwWre3uIHLziVWnNF5koeoTK0SvFMUaytW0zXXNrQWjNCTmzf5JvbaXNX9YGeyQ0aI0Q53TEqyfF7TyH61YWxUm1TPSWdwIcsCOwcsD537rF-PXK8Q?purpose=fullsize)
-
-它本质上是：
-
-> “带控制的负重拉伸”
-
-但需要循序渐进。
-
-不适合急性腰痛人群。
 
 ---
 
