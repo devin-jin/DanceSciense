@@ -72,7 +72,7 @@
 
 - 颅骨 Skull
     
-- [[脊柱（Vertebral Column）|脊柱]] Vertebral Column
+- [[脊柱（Vertebral Column） 1|脊柱]] Vertebral Column
     
 - 肋骨 Ribs
     
@@ -83,7 +83,7 @@
 
 ---
 
-# 一、[[脊柱（Vertebral Column）]]
+# 一、[[脊柱（Vertebral Column） 1]]
 
 脊柱是舞蹈动作最重要的结构之一。
 
