@@ -239,7 +239,6 @@
 
 ![Image](https://images.openai.com/static-rsc-4/3dJyaMjNbRHAyvlirddMevq54fMUmhAmQpTeOOfdr9DHeUhcY5c2muq4WEQW6AJkwSYcgJsi-6BCTA1I1F6H8bo7gHnyPyUGNf36QSYdwXY0gPVrzj855DaJ_p186P8JCZYoXnUn_d9dG2kaL-NbAU6EnjuF47dT6ycElBLLjebCH3Y73eII3IYLIDI4sgv3?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/uWLwkM8dthtdvxSPDdphZm2RFRTynN_S96gtnopVvWxBJsoPiEb2mPIAzn-3VCeCf8MneMXBuDPcasxoHSYv_7Um6oped1TIhncjKXWPMy35nVoFiiXD68wOaTUH7dqBvX0zCMk2sBaEfTxzdTbOZilGRq0FJR08BdMrHYuYd3CmBYn38YmDtH9x91R8kn3Q?purpose=fullsize)
 
 
 
@@ -264,7 +263,6 @@
 
 # 六、对舞蹈训练的意义（重点）
 
-## ① 只练柔韧 ≠ 好舞者
 
 如果缺乏供能能力：
 
@@ -277,7 +275,7 @@
 
 ---
 
-## ② 爆发力来自ATP-PC
+## 爆发力来自ATP-PC
 
 需要：
 
@@ -290,7 +288,7 @@
 
 ---
 
-## ③ 编舞耐力来自糖酵解
+## 编舞耐力来自糖酵解
 
 需要：
 
@@ -303,7 +301,7 @@
 
 ---
 
-## ④ 舞台表现靠有氧
+## 舞台表现靠有氧
 
 需要：
 
