@@ -331,7 +331,7 @@
 
 - 胸椎伸展
     
-- Open Book
+- [[开书式（Open Book Stretch）]]
     
 - Foam Roller Thoracic Extension
     
