@@ -333,7 +333,7 @@
     
 - [[开书式（Open Book Stretch）]]
     
-- Foam Roller Thoracic Extension
+- [[胸椎泡沫轴伸展（Foam Roller Thoracic Extension）]]
     
 
 ---
