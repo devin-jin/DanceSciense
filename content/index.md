@@ -1,7 +1,7 @@
 ---
 title: DD的舞蹈训练笔记
 ---
-## 版权©️归属     合作私信[小红书 ee20011002](https://xhslink.com/m/4AJrMIZwdEg)    转载搬运请私信
+## 版权归属     合作私信[小红书 ee20011002](https://xhslink.com/m/4AJrMIZwdEg)    转载搬运请私信
 声明：笔记主要来源于chatgpt，已做人工编辑审核
 
 # 舞蹈训练体系

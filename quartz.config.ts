@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "devin-jin.github.io/DanceSciense",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -88,8 +88,9 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // Disabled because Satori emoji rendering can fail on symbols in Chinese notes.
+      // The site still uses quartz/static/og-image.png as the default social image.
+      // Plugin.CustomOgImages(),
     ],
   },
 }
