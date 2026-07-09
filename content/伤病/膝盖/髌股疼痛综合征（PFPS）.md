@@ -374,12 +374,6 @@ PFPS 本质上并不只是“髌骨问题”。
 
 ![Image](https://images.openai.com/static-rsc-4/BbZyQ3Xcu6XHK9zEEbmMZu6ux9_Bp3L157rzzRNaaHxGIenEPI0H1EnpigYMfEKqmVBXUB-VHX7T8izTr-5iVC7n8sDjHiJEK33EYFv7pF6tNYqqjvDvl6HtSyUKvQJoCYiwiwwjsxNjkuRiqOQojyk9ndwDlsWTL4190LJs9xH05jze7qsaaZnpecaXaX7d?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/mDUrds8IV0MwidURqJcFzfw1dp8Bvs2SnW6x2d3I2lbyUbPG0FAECBSlqLC_NNCjNorWDiF0b97vF6z7QjhkSJX13Pi03O-izud0fjSHzCNMK_hrswv9KRcXvc7praoPDxa37Q45-upD2Z4m6DhdkuoutKqww1d7NYRJvBa7r107gHtAEex-V_5k-hYL0WfY?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/2e-vgpuKizWagOiOdlzPXFJ1u0zzRTixgcvyLv7gVvSeim6TxMImUCYbnI655p44_IMq-Q6JD4VqUUq6t_RlQtX9f409VFGBcPOxawLa6oTPHSo62qS_8KNcT-cgxWqKHYYZPNo2mf7kECQCpm6DvCwiexY989TbvSnAV3H0or2IAGtt8VjSoARBFetN0XuJ?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/QAlFjy4G3zKXzXsJt75bN-8A845UsLcjYzb3OLkJLahn_vo7nQQHuBrrUGazspQpsgVh30u1noDYX7TG9AlJDtoyMz2xSG4eLYNZr7TWHm_PY6A-c9RoAqiyLmT3V8TbbuqPfDuvv2hPNBDVKJ6XO49ohUEOx3sfMz8ONuVde6HnbDNGcoa7j6DPPHbGVFWr?purpose=fullsize)
-
 ### 动作重点
 
 - 骨盆稳定
