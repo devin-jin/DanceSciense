@@ -1,4 +1,5 @@
-髌下脂肪垫炎（Hoffa's Fat Pad Syndrome）**和** [[膝关节积液（Knee Effusion）]]区分
+[[髌下脂肪垫炎（Hoffa's Fat Pad Syndrome）和 膝关节积液（Knee Effusion 区分]]
+[[膝关节积液（Knee Effusion）]]
 
 ![Image](https://images.openai.com/static-rsc-4/GKizdvsZja0DdEDwyDo1fOBah2FTaImA169l5mstNPHDvPuEDFrpOWue0iNs77_97XzWE3yS1Z7cFwmYkkt4ZNOBxFme-k3lfi-oR_gegg33tkLHlKDRV7KNbcR4IqJyt135K2SxMzHNi1N2wgAM1FmzZL4D9Zw-M_EDcg0l7TpkWFBCYW9yrWNUT_PYKX2f?purpose=fullsize)
 
