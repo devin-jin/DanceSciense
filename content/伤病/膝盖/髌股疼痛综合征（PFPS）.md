@@ -428,7 +428,7 @@ PFPS 不代表不能练股四头肌。
 
 ---
 
-# [[Spanish Squat（西班牙深蹲）]]
+# [[西班牙深蹲（Spanish Squat）]]
 
 非常经典的 PFPS 康复动作。
 
