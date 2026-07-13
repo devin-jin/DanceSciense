@@ -66,7 +66,7 @@
 
 ---
 
-### 3. 后胫肌腱炎（Posterior Tibial Tendinopathy）
+### 3. [[后胫肌腱炎（Posterior Tibial Tendinopathy）]]
 
 后胫肌腱附着于舟骨粗隆。
 
