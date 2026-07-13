@@ -438,7 +438,6 @@ PFPS 不代表不能练股四头肌。
 
 ![Image](https://images.openai.com/static-rsc-4/VXNrFh_kjT2FXoc91GEgbpSBFiWWX7F5U3MCFCvCOH6qics4MAvADSPZakid6lxwHmgk-15_qvxgrqbqsSbeFBvUR0kDgg8-Llg2I1Gcs3IQRd8aHpFQWyUJI-HGnXE09ULbQO0AN66GXvbh-30p3_s57KKPtlXyYTljlGWQcj3R7sTcdYrPbx9DKAImXYMa?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/DH5Mp8O7Xb2i3KK2GmJmHjDXoPJsJttpSyHLedw20sabsIOb5iF2ekXkdNpxh1zaSrlueNiCNqJY5N6m0UiN8L7YD4ePdoz_9-3PbzxTU0BnaKjzNXkmxz8zVzU3_8iyYCFXe9vzEN4lJJz_YS15mh0smhAaJ3CZej7TgTZUbXGeM3bAUNOYr63rzSqrpfaM?purpose=fullsize)
 
 ### 优势
 
