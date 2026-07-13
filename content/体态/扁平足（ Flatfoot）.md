@@ -1,12 +1,6 @@
 
 
-![Image](https://images.openai.com/static-rsc-4/PMYXRQwb6E3_wzgIv-pa4kyG96_etsKVjzlCPi--7aR6sJL9aYExy0TA_lmJrnKV5zFZuxXgG8OK0xmM7Gzi9yGnnaVLXBKPqGOtnRiDe4tutoz7bP4sOuaXZVppEJkiGzFq5wioyqPAoXKmO2YRZvxllsuAbW-1B-ZiyR1CdlUNh24FGz_NyidYChMp6AY1?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/YGWhXSv5KT_OLoUO-qm2UFc6Ekj9zSRxRhyIMhRgS6mNqJ5iBvJNGm0hbIY3-fZ7v5UdUFkn1udwkVTExMI3dWbcdwuqLKVfu4QXG6h9YyMlg4rnAR-0caUd6UY4ODZeBJsxwa9gIvvut1VwKjF6GHB_VeAu6odBXMVt9MdUFB7vISwMP0ynT-xG8plDkzXt?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/x3AVoZE5gymVKrLcdjIMJKJIjhyDN_9U8N6gY8Vm5SlEE9cOYCvz7YEBUoEdfAJZPcAImkJolAqyvpNkunCHpZuf0c1fwFKwF36mMgA3MhcSBpjU-5-do0MfhrhAeYvzNYWwad3lxHTAmHrhFXKZrF2TGfPzUikgjOQApkFx1JUwIX8gnpRJP53xix4Lk0Yi?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/3Dm62ZOUaIpMjVCrQRBgFPIBXgS9YGGs8HHXPPVxHoujly-K4Mlgb8Ji9cA2BPAVKtw1pbtJpms2x531PksNeAiK48etOkjTi2C1q2UJSsLKKUkq2vt6xoSf2lkbarm7jDE4goXWp-421TSMcW1Bu582Dh_92MBzSuq2vFb5AFnrs8U5hnINr-JX4hPpuBfV?purpose=fullsize)
 
 ![Image](https://images.openai.com/static-rsc-4/betS0WJ9NIdpaHruL7GTdXzS-nJfTbCB3EeolvnzbgtnFYJF9qFPNOx4c9WOerXV53H4-Khoez7rfB46Y_j7Lm65YDgLlnpt_ONyRPwg9tk1bBAx41cg07NsGjJvUPxOGgHkNF4XkOQdmJ-WT1q2LY7ib-mhPLcR-dTTPQBfwQzWsLcDvKE6hfcrJOmJiWcb?purpose=fullsize)
 
@@ -24,11 +18,8 @@
 
 ![Image](https://images.openai.com/static-rsc-4/v2P8c49wiEEbI3z2ElZYAeVDoMOEGc6tLXtvol806Pw4vN-IV3HVQNBQDGoEH1g2keMMlkrRgwv5TjRuo4tYPmfG3ziw9hKAXVhg2qeFaTgHt-KsGc2IJzxn6GW3qI3CH-phhdJo7UySTr23jRBR8dMUKN_G3qTTTNTz5K5e1Bm1Hlko6RcwDziBko78IW9o?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/dVhnxfEUkqeUptizACIPSNvivwVb5g0VCJu_D0minAjKpMFJpRYFxa4WXOPi14IeKWaAHhSPZEMq7V0C83vArTPo3SldvR1Xq7vwnRC6IvSg9AOVxoW-ZV2L1ADfCvBjtGYxBA2Zy5YRIVVQENb89DDkOc6bCAo4i2tt9ZrpXXVpa92BAxer9A7wXsM_jfuO?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/9SHQt3eZ4PESunjKHqCoxNkwFEvzlj426zHGpbGY_XVCvNDPYquDT614-1XFC1k04qtnZZaMby4qtE7Bamw6wqZy2QWoZugJv4AN4tOnmZmkPktm2eiiMSzhF5K1OHHRVVh1lvDr-1CgB9h8QtKgpr3F-9SCnIZJsLvq06FTGGzzD3yY42oBIgPdj4ceFfh8?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/yhNNb0kUT8DKoxILGcv4eXooKzTaVlK6GRwlBNQeuVp-WfZwGqRsM8M3vxs7uyZgrlR1zjtGPzZaZbbxwVNCBeDSFseHUThJo6S5J06B-vTCiK-w1b1-e-hUmM9LTlrT__zF5MOVmnve-mcPfUeStZdhC7eCqpF9SUZSBnqpDQw6nHM0J0efI8xvcuaZZ4FV?purpose=fullsize)
 
 人体足部共有三个足弓：
 
@@ -299,13 +290,12 @@
 
 ![Image](https://images.openai.com/static-rsc-4/znN3WzsNAMhvFNa9E1Z0JPuXUJiG4TXGeBsPt6wrrQnrEgcllHMniMCdpvZviLQMu3i4I02jAotMV138m1EHEbFpkDX8BgjogqkvQXtIXmToZPETf2TInaiMCMaok2BrltaxJ1QSdeXrFSg2N2WdxIDoLQtoryd4KXQeKWkYm8JxB4hAyBfmII_KnRTOcY18?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/2tOa4vbtvwg8zg3woGCjtNzyAPv4YnB283Y_0uQXtZX8iFYcSq3G0C5Dxx4B2dfswLqZmigc6gFDsvz_vFic1gNHee5CM7Ey7FAQejoRkj_ToMMf2N25IqRt4vHoSkVaqX1SVkBCQ2XkX3j7v_hxVzNdRa4C2S9pS8qLBrVz1dw4uGhF2EjQhQG4157Asgzf?purpose=fullsize)
+
 
 ![Image](https://images.openai.com/static-rsc-4/ORTeNFAaFCkipR0ZRsLMjIZwmQ8nVUSN83JohjX4ON_tYhJx_VWS_bv3EgJbWu-boEps8A4JoiTFkZpWXqbQ6j8R05KWLyxKMpmdO-p5ulibfDMIKeE0E9jnlqpUCUpm741dYV5KZIiLSjZn5BAGMR2mspqZFPC7TwkQIL4diK-o8bsPF89_1-SMD89yU9tk?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/dDZdufbadJO-kSGoFBBvirxYX78E2f0r5Y57228D3zKOS8IuaFCThoN1I91KDDKLbDhmMjb8jTf31Vvh1c3YTK518T3KG37wuri3q36iduoODWo0oEnfTbSwyWQVkU5UAmutgZaFlzktSJ4UphdgqBrpmr2GV_pYb_6Z84DzHSCOP1nQ9gijo6xfmx2ZGiZu?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/LAC0z0F6xd3gxQpzkDaxgPr3iFIgQUk7GtOZFcY0gqr3eLWS506VqK2S-yoeCyXtqUvhCsbFUMh-9YSN-kKIdjypsWVKX650v2U52B1G2MsnlzpQddin4BCuUJYqopsihY23l2hcfUsTbNRJV5vUsj9ZIUXfrwBMmcjD37UcPTj24GZvPrBNfGVQulvbi4td?purpose=fullsize)
+
 
 测量：
 
@@ -525,13 +515,13 @@
 
 # 与其他足部疾病的区别
 
-|疾病|典型特点|
-|---|---|
-|**扁平足**|足弓降低，可伴后足外翻、足部疲劳|
-|**副舟骨综合征**|足内侧骨性隆起压痛，常合并扁平足|
-|**后胫肌腱病**|内踝后方或舟骨内侧疼痛，单脚提踵困难|
-|**足底筋膜病**|晨起第一步痛，跟骨内侧压痛|
-|**高弓足**|足弓过高，前足和后跟压力集中|
+| 疾病                                       | 典型特点               |
+| ---------------------------------------- | ------------------ |
+| **扁平足**                                  | 足弓降低，可伴后足外翻、足部疲劳   |
+| [[副舟骨综合征（Accessory Navicular Syndrome）]] | 足内侧骨性隆起压痛，常合并扁平足   |
+| [[后胫肌腱炎（Posterior Tibial Tendinopathy）]] | 内踝后方或舟骨内侧疼痛，单脚提踵困难 |
+| [[足底筋膜炎（Plantar Fasciitis）]]             | 晨起第一步痛，跟骨内侧压痛      |
+| **高弓足**                                  | 足弓过高，前足和后跟压力集中     |
 
 ---
 
