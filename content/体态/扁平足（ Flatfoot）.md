@@ -408,7 +408,7 @@
 
 推荐：
 
-- Short Foot（短足训练）
+- [[短足训练（Short Foot Exercise）]]
     
 - Toe Yoga（趾分离训练）
     
@@ -458,9 +458,9 @@
 
 推荐动作：
 
-- Clamshell（蚌式开合）
+- [[蚌式开合（Clamshell）]]
     
-- Monster Walk（怪兽走）
+- [[怪兽走（Monster Walk）]]
     
 - 单腿桥
     
