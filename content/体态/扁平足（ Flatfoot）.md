@@ -410,7 +410,7 @@
 
 - [[短足训练（Short Foot Exercise）]]
     
-- Toe Yoga（趾分离训练）
+- [[Toe Yoga（趾分离训练）]]
     
 - 毛巾抓地
     
