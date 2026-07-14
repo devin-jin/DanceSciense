@@ -225,11 +225,11 @@
 
 - [[面拉（Face Pull）]]
     
-- Band Pull-Apart（弹力带拉开）
+- [[Band Pull-Apart（弹力带拉开）]]
     
-- Wall Slide（靠墙滑手）
+- [[Wall Slide（靠墙滑手）]]
     
-- Push-up Plus（俯卧撑加）
+- [[Push-up Plus（俯卧撑加）]]
     
 - Y / T / W 提举
     
