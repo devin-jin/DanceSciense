@@ -251,7 +251,7 @@ AS是少数**运动越规范越重要**的风湿病之一。
 
 ## 2. 药物治疗
 
-### [[NSAIDs]]（首选）
+### [[NSAIDs（Non-Steroidal Anti-Inflammatory Drugs，非甾体抗炎药）]]（首选）
 
 如：
 
