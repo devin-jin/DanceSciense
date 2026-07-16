@@ -71,7 +71,7 @@
 
 例如：
 
-- 类风湿关节炎
+- [[类风湿关节炎（Rheumatoid Arthritis，RA）]]
     
 - 强直性脊柱炎
     
