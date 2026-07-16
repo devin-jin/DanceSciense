@@ -73,7 +73,7 @@
 
 - [[类风湿关节炎（Rheumatoid Arthritis，RA）]]
     
-- 强直性脊柱炎
+- [[强直性脊柱炎（Ankylosing Spondylitis，AS）]]
     
 - 银屑病关节炎
     
