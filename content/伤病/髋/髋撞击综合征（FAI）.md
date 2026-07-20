@@ -153,16 +153,6 @@ FAI 全称：
 
 ---
 
-# FAI 在舞者中的研究
-
-## 文献
-
-《Hip Injuries in Dancers》
-
-[PubMed 文献页面](https://pubmed.ncbi.nlm.nih.gov/23015923/?utm_source=chatgpt.com)
-
----
-
 ## 研究发现
 
 舞者非常容易出现：
@@ -310,13 +300,6 @@ FAI 全称：
 
 会不断增加髋前压力。
 
----
-
-# 文献：舞者髋关节损伤机制
-
-《Understanding hip pathology in ballet dancers》
-
-[PubMed 文献页面](https://pubmed.ncbi.nlm.nih.gov/24280392/?utm_source=chatgpt.com)
 
 ---
 
