@@ -1,4 +1,3 @@
-## O型腿（Genu Varum，膝内翻）
 
 ![Image](https://images.openai.com/static-rsc-4/E9V7a4U1PXFSKlnV9JwdDKdUgDUDy5Gt_yNEbm8oM0f3sofUDE_G315VfqxfKbWk5m4jwoDX6nt6Iyr8KZThQMfVGW6S9W-3OFeIZwhrZ5uPMonaE8eLeEyP1QjoFZcYvaSqrIPW5l4uEeS5Ke6CSrxT54jBVLd6kvnzUXrvmlX6OKKBfdyVYVrmBVHkFUCF?purpose=fullsize)
 
