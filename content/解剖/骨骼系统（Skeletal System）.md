@@ -481,7 +481,7 @@ Greater Trochanter
 
 ---
 
-# 四、足部骨骼（Foot Skeleton）
+# 四、[[足部骨骼（Foot Skeleton）]]
 
 舞蹈动作最终都通过足部与地面互动。
 
