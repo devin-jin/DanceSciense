@@ -69,7 +69,7 @@
 
 ## 1. 后胫肌持续牵拉
 
-后胫肌（Posterior Tibialis）负责：
+[[后胫肌]]（Posterior Tibialis）负责：
 
 - 维持足弓
     
@@ -286,9 +286,9 @@ MRI能够显示：
 
 包括：
 
-- Short Foot（短足训练）
+- [[短足训练（Short Foot Exercise）]]
     
-- Toe Yoga（趾分离训练）
+- [[Toe Yoga（趾分离训练）]]
     
 - 毛巾抓地
     
@@ -312,7 +312,7 @@ MRI能够显示：
 
 如：
 
-- 单脚站立
+- [[单腿平衡（Single Leg Balance）]]
     
 - Y Balance
     
