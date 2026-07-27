@@ -209,7 +209,7 @@ Osgood-Schlatter病
 
 ---
 
-### ③ Sever病
+### ③ [[Sever病（Sever's Disease，跟骨骨骺炎）]]
 
 Sever病
 
