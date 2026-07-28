@@ -2,13 +2,10 @@
 
 ![Image](https://images.openai.com/static-rsc-4/iPDhTJ8WR62R7seRWOXphx90GcYPVOonM-MxpWIQkVErHFC_AA08ndRq8KH9rB1E9no4yEO4QqNX5PZuWadPZQSmyVZw-ms_nH9nBAXFSma-vj6MAfvP6jzMDcJ5y8_UUoltXCjDy-iS33nQ2Y4yZcV_PeMwYw29l8ot1azWcNnQdWiXLQqMmMp9F-w-e9xg?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/CTRezCncHdKRWZvT6e27JokGRuuth0tp-YsbFvYkJ6RlN8b42s9H-3SmMcTfy5I5l_2KOdHEKrTlQb10TXqA21Oshf6hFAVIfiUJfD-g4r88tDlIGfDhyN5xWhrBbc4eTBUmtqzGIFAm3JOXfnsHOlhvvmnsZ3TeyeTbU7Om3cYJIJH2-FFDdq3snvAb-Vf6?purpose=fullsize)
-
 ![Image](https://images.openai.com/static-rsc-4/-hrtGxcma8TFFkmPKchc3VqOUMBZflIGn2TG0T_lsCjM8rzgi74eXxPJtSATgyqcKxlzcYT0Vwxwn9UwQVhqtrO-9yPaZTuTJs1vX_N3Fjp-T8k6EyJOg4ZA1e_QVrbbjKS0zcxM_Z6MH_tGrCQXA1Rubycoo-Wl0jEqPneAtJINe4NBN5KZ-8LyhOTQp-ua?purpose=fullsize)
 
 ![Image](https://images.openai.com/static-rsc-4/ZH5rZcVBANlqKPpY__33qxTSjYVkC3vqle4Na3Jts8QmjiokxMcft1zjm6ugQZAycrKScumSh4bst7aHFpCKpYbg4f6N5IpFhucW0_yz0d__w2Y3OBFZrSsetMK4T5zGF_JQ8ixpPnBBbDHMPIf0V8CSLEbLSoupY0wqxLBFM_m0QRU_-V2JH-JwbonUgmGY?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/qNIm1u4F9zhem7EqEDLL9Zf8iBxI_RJ7oZHXFHHLVj38uoXRuqK6blgXMnqZ6_TWd2Cs1fKBinXOTN9I1ZpV8CtQzRyFuQgLgjPhNUOltzagfwZsT4DetWqUrl1V2ufz5YzLel5OegviIJgwOxoE0xwNCNgKhaxtO79YsKxckBWeUskWZYZ7HJArZCYzJajz?purpose=fullsize)
 
 **髌骨脱位（Patellar Dislocation）**是指**髌骨（Patella，膝盖骨）从正常滑动轨迹中脱离，通常向外侧移位**的损伤。
 
@@ -25,19 +22,7 @@
 
 # 一、髌骨正常运动机制
 
-正常情况下：
-
-```text
-股骨滑车沟（Trochlear Groove）
-
-        ↓
-
-     [ 髌骨 ]
-
-        ↓
-
-膝关节屈伸时沿滑车沟上下滑动
-```
+正常情况
 
 髌骨受到多种结构共同约束：
 
@@ -56,7 +41,6 @@
     
 - 内侧支持带
     
-
 ### 骨性稳定结构
 
 - 股骨滑车形态
@@ -127,7 +111,7 @@ MPFL损伤
 
 ---
 
-### ② Q角增大（Increased Q Angle）
+### ② [[Q角（Q-angle，Quadriceps Angle）]]增大（Increased Q Angle）
 
 Q角：
 
@@ -170,7 +154,7 @@ Q角增大：
 
 ---
 
-### ④ 胫骨外旋
+### ④ [[胫骨外旋（Tibial External Rotation）]]
 
 胫骨过度外旋：
 
@@ -242,19 +226,7 @@ VMO激活不足：
 
 ### 2. 髌骨明显偏向外侧
 
-外观：
 
-```text
-正常：
-
-    ○
-   [髌骨]
-
-脱位：
-
-       ○
-      [髌骨]
-```
 
 ---
 

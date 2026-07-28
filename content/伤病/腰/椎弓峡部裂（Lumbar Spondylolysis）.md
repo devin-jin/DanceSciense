@@ -286,7 +286,7 @@ CT对于诊断峡部裂最敏感。
 
 - [[鸟狗式（Bird Dog）]]
     
-- [[死虫训练（Dead Bug）]]
+- [[死虫（Dead Bug）]]
     
 - [[侧桥（Side Plank）]]
     

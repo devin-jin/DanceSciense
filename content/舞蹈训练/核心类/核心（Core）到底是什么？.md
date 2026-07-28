@@ -334,7 +334,7 @@
 
 - [[平板支撑（Plank）]]
     
-- [[死虫训练（Dead Bug）]]
+- [[死虫（Dead Bug）]]
     
 - [[腹轮（Ab Wheel）]]
     
