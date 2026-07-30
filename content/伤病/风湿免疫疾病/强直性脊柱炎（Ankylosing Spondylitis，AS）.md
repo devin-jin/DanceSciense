@@ -86,7 +86,7 @@ AS的核心病理特点是**附着点炎（Enthesitis）**，即肌腱、韧带�
     
 - [[梨状肌综合征（Piriformis Syndrome）]]
     
-- [[腰椎间盘突出]]
+- [[腰椎间盘突出（Lumbar Disc Herniation）]]
     
 
 ---

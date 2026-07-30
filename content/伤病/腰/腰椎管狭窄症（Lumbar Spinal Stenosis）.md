@@ -36,7 +36,7 @@
 
 随着年龄增长：
 
-- [[腰椎间盘突出]]
+- [[腰椎间盘突出（Lumbar Disc Herniation）]]
     
 - 黄韧带增厚
     
@@ -337,7 +337,7 @@ MRI是金标准。
 
 需要优先排查：
 
-1.[[腰椎间盘突出]]
+1.[[腰椎间盘突出（Lumbar Disc Herniation）]]
     
 2.[[椎弓峡部裂（Lumbar Spondylolysis）]]
     

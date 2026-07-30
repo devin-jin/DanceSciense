@@ -224,7 +224,7 @@ Cat–Cow 由两个动作组成：
 
 ---
 
-# 六、[[腰椎间盘突出]]为什么常练 Cat–Cow？
+# 六、[[腰椎间盘突出（Lumbar Disc Herniation）]]为什么常练 Cat–Cow？
 
 很多腰痛人群的问题不是：
 

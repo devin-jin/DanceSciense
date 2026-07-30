@@ -254,7 +254,7 @@ CT对于诊断峡部裂最敏感。
 | 椎弓峡部裂（Lumbar Spondylolysis）             | 后伸痛明显  |
 | [[棘间韧带炎（Interspinous Ligament Injury）]] | 前屈痛明显  |
 | 小关节疼痛综合征（Facet Joint Syndrome）          | 后伸旋转痛  |
-| [[腰椎间盘突出]]                              | 屈曲诱发腿痛 |
+| [[腰椎间盘突出（Lumbar Disc Herniation）]]                              | 屈曲诱发腿痛 |
 | [[腰椎管狭窄症（Lumbar Spinal Stenosis）]]      | 行走诱发腿痛 |
 
 ---
