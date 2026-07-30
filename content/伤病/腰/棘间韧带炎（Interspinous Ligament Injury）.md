@@ -4,13 +4,13 @@
 
 ![Image](https://images.openai.com/static-rsc-4/EphU6gKQXoJfabhv1A-KgMzhUtr7xAYOBMuQlnR1S-KZVQ_0NaOVCOfRRvhUxo0UN9Cr-WlK_kxQOEaYXNAsq0s5a9D8fhSFU7RaQz1ClafM8oVjrS-FzQCC9FtI1gTcW9SuI9TehB--4eXIo9fH6tonCQTchVHK_ubAHjsDsa6CWGjB8-djrRCfQOw-HsMm?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/2OtWTSBiIvyOiU6ZaHfp7tK3ZRl0lvSiS5quuh9oiUakp9DcMGsqlrey--OupKu9-zkLhPyYi3hJmnflj2EAj1sy2pQoomUAPiW2E3Z25aTWWucufvDrJF0zkeMEnaoBx9wNYT6INU4od1n8Z_fnvxNEqVoqCP4sRpZgSb1UtV12crk_FbxMekWsAQmVZzAn?purpose=fullsize)
+
 
 ![Image](https://images.openai.com/static-rsc-4/ykKheIow6HPPR1ZR7k3ZLRpZY_2VH1gO2eStplC85ldK76IHX6P4QbeDJpS3FtTm8y_A0J0wXGiJxSJtMWDlFPyb1bqj1DvXX-TjAuDebqqwTifFHu05Zoz72GJ03AdDGw0AtaylwiKthdL13joDxoVXbCLXPZrdCPUUS8JyS6L204_eh1h-0wfEzWg9lMz4?purpose=fullsize)
 
 ![Image](https://images.openai.com/static-rsc-4/QwS2nN2DfJxJ3VB1lWmOWwbaK9fAMLcLi5eQRxKqA0lBFeQ_bDhfrrgggdN17qFbPnF65VvvVINRVMDs76MTs7kDqqlbJZseHgrS-_hc2DCIWiKz-4WRAJ7OIiXxP31655Xj0vHr9bHnzEwCjaomKE0k8s_4t6QEWbAU1J-jFSqyXUgpSINCcbZhC3f2B6hC?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/II4Br4AOVB17lCPv8fxZITqOURemwhZxt36km6zcrYFUMmoGUMIqRSrvM0focLTsbI_p61d8YBZClkEsQN6TE4Lg6QMO6QWBDRnykyxTPbDjB60oW_GtpG2-9HJ_9H2iAAMJG72gCCLWJsYSAWAHfOZTW4ey5GDnW2Mr5jyDGypv3C4O29rp7OAg5WIEeB0v?purpose=fullsize)
+
 
 ---
 
@@ -121,13 +121,10 @@
 
 ## 反复极限后伸（下腰）
 
-![Image](https://images.openai.com/static-rsc-4/BGkIw0PJdRprcs53imVM2zkO_U0SXPJzItw7cdmF7-7EOPLEvlTizf6gjOJo6IZucrU6prV5YFKIXbQYaz6VHu22bfsXSbPzLf5XKqVF9bBXxscOXjk7h1yYpW-GBF4OPwIu4wUhLiu9Q6qFsGE4zp-MlsxDOiyI7ysnFS-6Go64kLDaBU34vXxQWpmLxn5m?purpose=fullsize)
+
 
 ![Image](https://images.openai.com/static-rsc-4/3VeoPN5-1_8hFRgEpjIdeartPxu8hGfJWWKOhL4a1dq_e7Cq6rQODnWze0OztGG--o2XMzTODYovzSGJvMwq8SBrbbuPCUxJExc3vihfkFLvoAramhQsx2GraWuHsQshOB64FnJxGqnuoVf_Mxq6v4BMe7wWJ1nkbgw9abpWAgwu59NfTYMI0ybdYeB6xJzp?purpose=fullsize)
 
-
-
-![Image](https://images.openai.com/static-rsc-4/NKdAKLurlZdKk92kdBhHUlnAuMxEAhppHI1Zd4-NarSXt4p2DLFAuFmnlRow3nmY7QUpIQ9Kucw0eClFVXfw8FcgAbj4wcQe-F8JBBL1Nq0ZJYTerZemxQDd55vdhp_fBC-Id5KcSTx_y6ulR1HRbCpkTRB82SZI5to1wSQ1dfYoY-PHgY7yytuYDrvFASEw?purpose=fullsize)
 
 很多人认为：
 
@@ -161,13 +158,13 @@
 
 # 四、与腰椎间盘突出如何区别？
 
-|特征|棘间韧带炎|腰突|
-|---|---|---|
-|按压棘突间疼痛|明显|不明显|
-|腿麻|少见|常见|
-|咳嗽喷嚏加重|少见|常见|
-|前屈|痛|痛|
-|神经牵拉试验|阴性|阳性可能|
+| 特征      | 棘间韧带炎 | [[腰椎间盘突出]] |
+| ------- | ----- | ---------- |
+| 按压棘突间疼痛 | 明显    | 不明显        |
+| 腿麻      | 少见    | 常见         |
+| 咳嗽喷嚏加重  | 少见    | 常见         |
+| 前屈      | 痛     | 痛          |
+| 神经牵拉试验  | 阴性    | 阳性可能       |
 
 很多舞蹈生MRI发现轻度腰突后，实际上真正疼痛来源可能是：
 
