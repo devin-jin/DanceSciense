@@ -154,13 +154,12 @@ Grand Jeté
 
 ![Image](https://images.openai.com/static-rsc-4/8QEZMAQs3bIzkr_ztoLb5pkWduFjld0liJfNxF_kqogPfoknMFC8wftYa4bVxOuJWS-6YagEXx-aFEDVCaQxiq5pQXXVl3yD2vllj97crOx4ufjjSpTh__pB7QqS7JPvw0cAz6ixf0XgrzKjxr4_aJk0rEn2d6xFJQT2AyPgXXhBrTBY6lV1cehfTniVVcMo?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/UUOIFFqz96SQYIS5qKSu560CKL1GBJg7hyQnwYxgwGr6653PM44TzWbpBuVikVjPaTjCHG1mbbZ7_EYQauuIki64I6XzuC9H2L9WKbJMT0m6N-0vrmvLXAFiuHUQziuxgHMNDNeC9ZH2QmajdXd5UC8_hP4axOmK9XqVxcm8Cj3K6y0lAdVD7wD0eXHvmHRb?purpose=fullsize)
+
 
 ![Image](https://images.openai.com/static-rsc-4/XSo37pHBlzkRvokbvxrmI21rFTTjamIn1X0J7z2EpJVmqWbDDD6nxXDj65w-LUzpXa0br9E2hVes6hU6djP2__c4At6S6n1L_R9SphnKJzvvfNyXEQ5WVniqd_-jlBAFIOEGOrvYOmcQvENldt5PwzrWkVfHWwtsUMvCYSrB3Oe_BpFNgCZfTXa-QCPW9HRp?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/3cVEXR59gGbxAWXdOEE5uhUHBc0tPbDJEJUAKo4ZilKhafBcSiTILZSdkq-LKK8Ue3LGzjlcBVQF2ZFvtMLidUtBDyX6WV5U9W66nq7dMAJRWst0IT81Mf0kScjmec0qEN-XSPoKlTCMMFfH9lujpENbZFsScLppta988bV7lX6CmjiXdJ4rftV1PZ0xxfL6?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/Xps4qq6fbbs-mtpKqnfRQ4sVb6f_VkoBixZxrwS2dtsnZpK0mFnXVKgwdNCuCJuyvEqBhAXfPq4WChx1YWdLvRTQq-xtMCFAnUsK6t33hBliYLsitNohwM7vCq5vAEBG2tBCzxC_hOoXh9Kw_ZRBGq7dxqXM9niDaT0srZ9zwvSFfUUQQGcC3Z9rNheCcNIT?purpose=fullsize)
+
 
 特点：
 
@@ -188,7 +187,7 @@ Grand Jeté
 
 能力需求：
 
-- 极高 SSC 效率
+- 极高 [[Stretch-Shortening Cycle（SSC，拉伸-缩短循环）]]效率
     
 - 足踝弹性
     
@@ -262,7 +261,7 @@ Grand Jeté
 
 ---
 
-# SSC 在舞蹈跳跃中的作用
+# [[Stretch-Shortening Cycle（SSC，拉伸-缩短循环）]] 在舞蹈跳跃中的作用
 
 舞蹈中的绝大多数跳跃动作都依赖**拉伸-缩短循环（SSC）**。
 
@@ -326,14 +325,14 @@ SSC 能够：
 
 舞蹈科学研究中常采用以下测试评估跳跃能力：
 
-|测试|主要评价内容|
-|---|---|
-|Countermovement Jump（CMJ）|爆发力与 SSC 能力|
-|Squat Jump（SJ）|纯向心爆发力|
-|Drop Jump（DJ）|SSC 效率|
-|Reactive Strength Index（RSI）|反应力量能力|
-|单腿 CMJ|左右侧差异|
-|连续跳测试|下肢弹性和疲劳耐受|
+| 测试                           | 主要评价内容      |
+| ---------------------------- | ----------- |
+| Countermovement Jump（CMJ）    | 爆发力与 SSC 能力 |
+| Squat Jump（SJ）               | 纯向心爆发力      |
+| Drop Jump（DJ）                | SSC 效率      |
+| Reactive Strength Index（RSI） | 反应力量能力      |
+| 单腿 CMJ                       | 左右侧差异       |
+| 连续跳测试                        | 下肢弹性和疲劳耐受   |
 
 对于舞者，还可结合三维动作分析或力平台，观察起跳、腾空和落地的生物力学特征，如关节角度、地面反作用力及左右对称性。
 

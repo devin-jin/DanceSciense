@@ -201,13 +201,12 @@ ROM增加不完全来自这些反射机制。
 
 ![Image](https://images.openai.com/static-rsc-4/-w9tpGr-ND_A69_ZmcmbJ7kA1CZKACX5VIrV9BCmpiSBeASMVeC49RJD91hd_Ki8YbkUV2UyGKRTcDxZGDVtUCoXYu-tBcYH_c-t9dMBvo0PpJpKvsDcCNkl45hSyEprvEUbGRDAbvh19Ll-xhvNaLfOWl2Hb1kfK4U8E8VX1KUbbgZxrPxNX-v7JAdQZRTa?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/j0DaocmOKsLV9fNFksp88dLt7mxM3Ce4bRljxMNZvNKOJjxd2pP3BfFFbunWZdXSx3eIzOnl7rmkwUiIdpY9C2F9U68K1Rr2AEu0sXkk89ophb5-8Ce2cP4dCt_IKuO0l4i33dEpTX-MfOdx6Pa062QuQY_MyMR7GecErx0imb-AApgDtc316JozWpAHfdo0?purpose=fullsize)
+
 
 ![Image](https://images.openai.com/static-rsc-4/Au35VFEhu75DsQEOc1-0LK7X-bBSSZq4RB1kmCrCAYwHsTcNTYHfKOvI8xQfsGxRmgGn4ZCsUfwckBM7yekyvLOh0kg_TfZ0KzQ5sIRNa8S1cTmq8gIZtdiwsqdcKW9DV2xL8i-Z0THvDbouAtpph5MUllx9NxUr0v04d3qUl4jjKyDP6Xm8A8QhcPUYhnjT?purpose=fullsize)
 
 ![Image](https://images.openai.com/static-rsc-4/xgiPNirE9UrnzGk6RKb5IzBOasKEEt8fJ1rFPPOM9DjKnpfazlXvx-j-cNdbIIRZMx3gM8uMGJQP1afB4o0RwUa7TwKgAotXpdGvQT-HK2ob6ZnUsGdZWuIcXQ5VkzBqB7FLWddDBYTM3GPMGH7svJZVo8NhwiEI7I4E7TEkR9RJHbYIHH6TTrQzXGnWZUF0?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/hOMBLuviMIgehkIhPXhkZ4hkVcXqW0K5bhuOvGDQ6lRTalSpeBwlcsTdIEOddOeiNqxmYylCsqCvZYQ2NI8IU58rzYHQ1tzO6HAlIDV42ljwfPOAM7kvmtabCaG3KHl_HOgCfnvrcwXHA4e2Fya60pHqRLfryINkRdy8AuGlkzT_gNx4aV-GgyONkvl22kuo?purpose=fullsize)
 
 步骤：
 
@@ -389,7 +388,7 @@ PNF通常比单纯静态拉伸更高效。
 
 - PNF压腿
     
-- Nordic Hamstring
+- [[北欧挺（Nordic Hamstring）]]
     
 - 主动控腿
     
