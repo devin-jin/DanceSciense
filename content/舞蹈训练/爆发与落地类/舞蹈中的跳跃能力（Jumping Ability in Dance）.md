@@ -328,7 +328,7 @@ SSC 能够：
 | 测试                            | 主要评价内容      |
 | ----------------------------- | ----------- |
 | [[Countermovement Jump（CMJ）]] | 爆发力与 SSC 能力 |
-| Squat Jump（SJ）                | 纯向心爆发力      |
+| [[Squat Jump（SJ，静蹲跳）]]            | 纯向心爆发力      |
 | Drop Jump（DJ）                 | SSC 效率      |
 | Reactive Strength Index（RSI）  | 反应力量能力      |
 | 单腿 CMJ                        | 左右侧差异       |
