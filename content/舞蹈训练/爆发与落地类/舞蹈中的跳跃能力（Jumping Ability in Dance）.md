@@ -353,7 +353,7 @@ SSC 能够：
 
 - 箱跳（Box Jump）
     
-- 跳深（Depth Jump）
+- [[跳深（Depth Jump）]]
     
 - Drop Jump
     
