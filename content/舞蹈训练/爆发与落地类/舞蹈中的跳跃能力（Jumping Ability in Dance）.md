@@ -325,14 +325,14 @@ SSC 能够：
 
 舞蹈科学研究中常采用以下测试评估跳跃能力：
 
-| 测试                           | 主要评价内容      |
-| ---------------------------- | ----------- |
-| Countermovement Jump（CMJ）    | 爆发力与 SSC 能力 |
-| Squat Jump（SJ）               | 纯向心爆发力      |
-| Drop Jump（DJ）                | SSC 效率      |
-| Reactive Strength Index（RSI） | 反应力量能力      |
-| 单腿 CMJ                       | 左右侧差异       |
-| 连续跳测试                        | 下肢弹性和疲劳耐受   |
+| 测试                            | 主要评价内容      |
+| ----------------------------- | ----------- |
+| [[Countermovement Jump（CMJ）]] | 爆发力与 SSC 能力 |
+| Squat Jump（SJ）                | 纯向心爆发力      |
+| Drop Jump（DJ）                 | SSC 效率      |
+| Reactive Strength Index（RSI）  | 反应力量能力      |
+| 单腿 CMJ                        | 左右侧差异       |
+| 连续跳测试                         | 下肢弹性和疲劳耐受   |
 
 对于舞者，还可结合三维动作分析或力平台，观察起跳、腾空和落地的生物力学特征，如关节角度、地面反作用力及左右对称性。
 
