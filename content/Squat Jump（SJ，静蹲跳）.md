@@ -154,14 +154,14 @@ SJ 更能反映：
 
 # SJ 与 CMJ 的区别
 
-|项目|SJ|CMJ|
-|---|---|---|
-|起跳前下蹲|静止保持|快速下蹲|
-|是否利用 SSC|否（基本排除）|是|
-|牵张反射|基本无|有|
-|弹性储能|基本无|有|
-|跳跃高度|较低|较高|
-|主要反映|纯向心爆发力|爆发力 + SSC 功能|
+| 项目       | SJ      | CMJ          |
+| -------- | ------- | ------------ |
+| 起跳前下蹲    | 静止保持    | 快速下蹲         |
+| 是否利用 SSC | 否（基本排除） | 是            |
+| 牵张反射     | 基本无     | 有            |
+| 弹性储能     | 基本无     | 有            |
+| 跳跃高度     | 较低      | 较高           |
+| 主要反映     | 纯向心爆发力  | 爆发力 + SSC 功能 |
 
 一般情况下：
 
@@ -170,16 +170,6 @@ SJ 更能反映：
 ---
 
 # SJ 在舞蹈中的应用
-
-![Image](https://images.openai.com/static-rsc-4/UCAG7KWnF8tt4pvtD_0A7ODskPxot0E0pol95wSq3POgVTKz8CVf42V1pTiEU9Z1xVbSDugYQZrkP631JCUndJxHE6JXy9XpMLmrGszpszakuECJGqyqKQyLzsDIds6-GXLje3PORGW9yxllGKev_an2fSjt6qKfeSRTVB6kF2P5sYG91T2tx51r8eop_6uF?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/JqEKlStwP9KJC6skrjKdXGcH-yoxSykYgP7YOJP9NPuMjkz01pLhS_QUfa9aNeMQ3JC1Dw-eJyDmIMmRPy-m8U4ZksHLqVSvD1myZDn95Rl5ozYYNCBeQtiJ9HNajwJd-OiAS8k8dP2cvDv2Pzvl4yWUXPev3dwyG1Ss5_qEoq7AKwcy6zbLX-U2jQQ0rKen?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/lJxCcAQtYuux88RkgWJy9a02r0tKBM5XP3wz8uQgCcMfmnSs844FWhknT2SwbGYobXb5rPJkEoT319Gw3BPWRaBodsDN0sjFUwmy5rZESOtkVXlhHDzBwXsAq60UnqlOEACec95G7aFQcKRmBmhoGlJwPrUMQlqdzhKJGFDnZN8XhmJHM0mQL4l4AjoxLCk0?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/CS0xvCx3WDZjpmMCWZYaOYws5coP-QMUKrWIjgKUsSWemnh3bc-OfqsPWGOXCqr6lzVbYdipA6C3ZxdNC19uhgeJUjVHcoLGc7fRHn_Lt3JeO2ymrlMBRNI77b9rKTbUn6Za6gXoH1liYxydyCNwqkdJJsgpKAv-A3qyUQEolEfMQ8DpQnF6or9UQoTyU1eE?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/O0t5CYJpnNzOUGMwQ74lECbkVhK4XgpuBPNFq0_vJAhZNtq_2buigA3mW0m31-k3LcQGC6y7BR1u46GiCAyC8fqbJYhUmJqGyMNLQlHPGvQb1UfMvZkhXwaOwr43UKAHbK_yyT-PAtLwmGk5VABYqUhJiwF8Q4ipimvdb_jMbpAdEgupvD0BRgqysXo40I3D?purpose=fullsize)
 
 ![Image](https://images.openai.com/static-rsc-4/DpihKE9M-4rUQIqfJykUpkf6GpavLJHxp7q7v91POnSakine8ZyIU9qDZyfqarET5Loq93XFwPwg1Cwf6ACHpE9Ua2XhoejTFOnVWcoceDgP8aGKgb45BAyvkMpAhFuQjO7WkDQG8WeYcQCbljoxIHZ9jAj-N7l6ZlfW3svq3DopMo3uLKaefCG3kRZnSILp?purpose=fullsize)
 
