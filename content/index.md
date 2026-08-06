@@ -1,37 +1,44 @@
 ---
-title: DD的舞蹈训练笔记
+title: 舞者科学训练笔记
+description: 从解剖、训练到伤病管理，用运动科学重新理解舞蹈。
+cssclasses:
+  - landing-page
 ---
-## 版权归属     合作私信[小红书 ee20011002](https://xhslink.com/m/4AJrMIZwdEg)    转载搬运请私信
 
-声明：笔记主要来源于chatgpt，已做人工编辑审核
+<div class="hero-kicker">DANCE × SCIENCE</div>
 
-由于部署在github page上，加载速度偏慢，必要时请使用科学上网工具
+# 让身体知识，成为舞蹈能力的一部分
 
-# 舞蹈训练体系
-## 序言
-![Image](https://images.openai.com/static-rsc-4/69Hd1JMyMxxu_7M0a3pv-WsnKb3TN6MMHuHMh2bcjDe4jYuEbRGPci8fZoVlJICOcrEQ9tETyb76MSjYjVWhqbpeymoEmRAOiNLHmMD1DcSbl_cCM1S7Kp6Z1YrUz_niotX4FFx1AXW--x7v3jrFAOB_j5C677LguHcUQsiaLlsRzXroDIbXiZih3fWWJ9ia?purpose=fullsize)
+从解剖结构、动作控制到专项训练与伤病管理，用清晰、可验证的运动科学知识，帮助舞者更稳、更强，也更长久地跳下去。
 
+> [!tip] 第一次来？
+> 想理解身体，从 [[解剖]] 开始；想解决训练问题，查看 [[按功能性分类的训练表]]；已经出现疼痛或不适，可先浏览 [[舞蹈常见伤病篇]]。文中内容用于知识科普，不能替代医生的诊断与治疗。
 
-![Image](https://images.openai.com/static-rsc-4/F8bHIluD6cwyQ4AByqeDheZkqOYJxwu63P2fz2eHQJj10pKqeaYS81E47u8XNchwgDH1c0y-ajA1YZcajr_4u4_YifF-FXsoGEUY0Qd0DflSZ9MtIRHODPuF2racEq0X_PWq_1MdqXppRZJllGl0AeKGNDZQDOscltpJ_PfdcPG49wwpXmnAcM3wnAgFQk8B?purpose=fullsize)
-舞蹈从来不只是“柔软”和“好看”。它是一种高度整合的身体表达方式——力量、控制、协调、柔韧与节奏感在极短时间内共同完成复杂输出。也正因如此，舞者的训练不应停留在经验式重复，而需要走向更系统、更可解释的科学训练路径。
+## 探索知识库
 
-舞蹈科学训练的核心，并不是替代传统训练方法，而是用运动科学的语言去理解身体：关节在什么范围内最稳定？肌肉如何在不同角度下分工？动作质量如何影响损伤风险？为什么同样的“开度”，有人更稳，有人更容易代偿？这些问题，本质上都可以通过解剖学、生物力学与运动控制来拆解。
+|  | 主题 | 你会找到 |
+| --- | --- | --- |
+| 🦴 | **[[解剖]]** | 骨骼、关节、肌肉、神经与动作基础 |
+| 🧭 | **[[常见体态问题]]** | 从足弓到肩胛，理解体态与代偿 |
+| 🏋️ | **[[按功能性分类的训练表]]** | 柔韧、力量、核心、稳定与爆发训练 |
+| 💬 | **[[按部位分类的训练问题]]** | 围绕足踝、膝、髋、腰背等常见疑问 |
+| 🩹 | **[[舞蹈常见伤病篇]]** | 常见伤病机制、识别思路与恢复知识 |
 
-在传统训练中，我们常常强调“感觉”“压得下去”“再多一点”。但科学训练更关注的是“能不能控制住”“有没有代偿”“这个幅度是否可重复且安全”。柔韧性不再只是被动拉伸的结果，而是主动控制能力与组织适应能力的综合体现。力量训练也不再只是增加负重，而是为了在特定动作结构中建立稳定性与输出效率。
+## 为什么要科学训练
 
-更重要的是，舞蹈科学训练的目标不是限制表现，而是扩展可用的身体能力边界。当身体结构更清晰、控制更精细、负荷分配更合理时，动作的表现力反而会更自由、更持久，也更不容易被伤病中断。
+舞蹈从来不只是“柔软”和“好看”。力量、控制、协调、柔韧与节奏感，需要在极短时间内共同完成复杂输出。科学训练并不是替代传统训练，而是帮我们回答传统经验背后的“为什么”：
 
-这篇博客将从运动解剖、训练方法、损伤机制与动作分析等角度，逐步拆解舞蹈训练背后的“为什么”，帮助把经验转化为可理解、可训练、可验证的身体知识体系。
+- 这个幅度是主动控制，还是被动压出来的？
+- 动作不稳来自力量不足、活动度受限，还是代偿策略？
+- 同样的训练，为什么有人进步，有人却反复疼痛？
+- 如何在表现力、训练负荷与长期健康之间取得平衡？
 
+当关节位置更清晰、动作控制更精细、负荷分配更合理时，身体表达反而会更自由。我们追求的不是一个“标准答案”，而是一套能观察、能解释、能调整的训练思路。
 
+![舞者科学训练](https://images.openai.com/static-rsc-4/F8bHIluD6cwyQ4AByqeDheZkqOYJxwu63P2fz2eHQJj10pKqeaYS81E47u8XNchwgDH1c0y-ajA1YZcajr_4u4_YifF-FXsoGEUY0Qd0DflSZ9MtIRHODPuF2racEq0X_PWq_1MdqXppRZJllGl0AeKGNDZQDOscltpJ_PfdcPG49wwpXmnAcM3wnAgFQk8B?purpose=fullsize)
 
-# 目录
+## 阅读说明
 
-## [[解剖]]
+本站笔记主要借助 AI 整理，并经过人工编辑与审核。内容仍可能存在疏漏，涉及疼痛、损伤或疾病时，请结合专业医疗意见判断。
 
-## [[常见体态问题]]
-## [[按功能性分类的训练表]]
-
-## [[按部位分类的训练问题]]
-
-## [[舞蹈常见伤病篇]]
+内容合作与转载授权：[小红书 @ee20011002](https://xhslink.com/m/4AJrMIZwdEg)
