@@ -152,6 +152,10 @@
 }
 
 @media (max-width: 700px) {
+  .sidebar.left .explorer-content {
+    left: -1rem;
+  }
+
   .landing-page,
   .directory-page {
     > h1:first-of-type {
